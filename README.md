@@ -1,8 +1,14 @@
 [[FR]](#fr) | [[EN]](#en)
 
-<a name="fr"></a>###Bonjour
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<a name="en"></a>###Hello
+<a name="fr"></a>
+
+###Bonjour
+
+---
+
+<a name="en"></a>
+
+###Hello
 
 <!--
 **QuentinBubu/QuentinBubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
