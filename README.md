@@ -1,7 +1,9 @@
 [[FR]](#fr) | [[EN]](#en)
 
 <a name="fr"></a>
-### Bonjour
+
+
+# Bonjour
 
 Je m'appelle Quentin, en programmation, je fais essentiellement:
 - Du développement web (HTML, CSS, JS, PHP)
@@ -10,7 +12,7 @@ Je m'appelle Quentin, en programmation, je fais essentiellement:
 
 A côte, je pratique le tennis, le ski ❤, de l'éléctronnique...
 
-# Vous pouvez me retrouver:
+### Vous pouvez me retrouver:
 
 - Par mail: anagamesprint@gmail.com
 - [Sur mon site web](https://quentin-bubu.github.io)
@@ -22,7 +24,9 @@ Bye Bye 👋
 ---
 
 <a name="en"></a>
-### Hello
+
+
+# Hello
 
 My name is Quentin, I program essentially in:
 - In web developpement (HTML, CSS, JS, PHP)
