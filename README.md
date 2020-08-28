@@ -15,7 +15,7 @@ A côte, je pratique le tennis, le ski ❤, de l'éléctronnique...
 ### Vous pouvez me retrouver:
 
 - Par mail: anagamesprint@gmail.com
-- [Sur mon site web](https://quentin-bubu.github.io)
+- [Sur mon site web](https://quentinbubu.github.io)
 - [Sur ma page Instagram](https://instagram.com/Quentin_bubu)
 - [Sur mon GitHub](https://github.com/QuentinBubu)
 
@@ -38,7 +38,7 @@ Next to that, I practice tennis, skiing ❤, electronics....
 ### You can find me:
 
 - By e-mail: anagamesprint@gmail.com
-- [On my WebSite](https://quentin-bubu.github.io)
+- [On my WebSite](https://quentinbubu.github.io)
 - [On my Instagram page](https://instagram.com/Quentin_bubu)
 - [On my GitHub](https://github.com/QuentinBubu)
 
