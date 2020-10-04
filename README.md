@@ -1,7 +1,7 @@
-[[FR]](#fr) | [[EN]](#en)
+[[FR]](#fr) | [[EN]](#en) | [[Stats]](#stats)
 
 <a name="fr"></a>
-
+<br />
 
 # Bonjour
 
@@ -24,7 +24,7 @@ Bye Bye 👋
 ---
 
 <a name="en"></a>
-
+<br />
 
 # Hello
 
@@ -43,3 +43,17 @@ Next to that, I practice tennis, skiing ❤, electronics....
 - [On my GitHub](https://github.com/QuentinBubu)
 
 Bye Bye 👋
+
+---
+
+<a name="stats"></a>
+<br />
+
+## Stats
+
+[![QuentinBuBu stats](https://github-readme-stats.vercel.app/api?username=QuentinBubu&count_private=true&show_icons=true)](https://github.com/QuentinBubu)
+
+[![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBubu&langs_count=15)](https://github.com/QuentnBubu)
+
+[![QuentinBubu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuentinBubu)](https://github.com/QuentinBubu)
+(wakatime) started the 05/10/2020
