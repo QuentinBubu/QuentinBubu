@@ -53,6 +53,6 @@ Bye Bye 👋
 
 [![QuentinBuBu stats](https://github-readme-stats.vercel.app/api?username=QuentinBubu&count_private=true&show_icons=true)](https://github.com/QuentinBubu)
 
-[![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBubu&langs_count=15)](https://github.com/QuentnBubu)
+[![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBubu&langs_count=15)](https://github.com/QuentinBubu)
 
 [![QuentinBubu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuentinBubu)](https://github.com/QuentinBubu)
