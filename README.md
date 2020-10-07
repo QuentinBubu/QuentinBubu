@@ -49,7 +49,7 @@ Bye Bye 👋
 <a name="stats"></a>
 <br />
 
-## Stats
+# Stats
 
 [![QuentinBuBu stats](https://github-readme-stats.vercel.app/api?username=QuentinBubu&count_private=true&show_icons=true)](https://github.com/QuentinBubu)
 
