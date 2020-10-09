@@ -55,4 +55,5 @@ Bye Bye 👋
 
 [![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBubu&langs_count=15)](https://github.com/QuentinBubu)
 
-<!--[![QuentinBubu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuentinBubu)](https://github.com/QuentinBubu)-->
+It doesn't really work x)
+[![QuentinBubu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuentinBubu)](https://github.com/QuentinBubu)
