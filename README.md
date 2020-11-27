@@ -5,7 +5,7 @@
 
 # Bonjour
 
-Je m'appelle Quentin, en programmation, je fais essentiellement:
+Je m'appelle Quentin, en programmation, je fais essentiellement: 💻
 - Du développement web (HTML, CSS, JS, PHP)
 - Du Python
 - Du développement d'Arduino
@@ -28,7 +28,7 @@ Bye Bye 👋
 
 # Hello
 
-My name is Quentin, I program essentially in:
+My name is Quentin, I program essentially in: 💻
 - In web developpement (HTML, CSS, JS, PHP)
 - In Python
 - In Arduino developpement
