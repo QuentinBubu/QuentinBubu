@@ -29,9 +29,9 @@ Bye Bye 👋
 # Hello
 
 My name is Quentin, I program essentially in: 💻
-- In web developpement (HTML, CSS, JS, PHP)
+- In web developement (HTML, CSS, JS, PHP)
 - In Python
-- In Arduino developpement
+- In Arduino developement
 
 Next to that, I practice tennis, skiing ❤, electronics....
 
