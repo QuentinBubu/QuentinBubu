@@ -19,6 +19,7 @@ A côte, je pratique le tennis, le ski ❤, de l'éléctronnique...
 - [Sur ma page Instagram](https://instagram.com/Quentin_bubu)
 - [Sur mon GitHub](https://github.com/QuentinBubu)
 - [Sur mon Twitter](https://twitter.com/BubuQuentin)
+- [Sur mon Discord](https://discordapp.com/users/638351262827675661)
 
 Bye Bye 👋
 
@@ -43,6 +44,7 @@ Next to that, I practice tennis, skiing ❤, electronics....
 - [On my Instagram page](https://instagram.com/Quentin_bubu)
 - [On my GitHub](https://github.com/QuentinBubu)
 - [On my Twitter](https://twitter.com/BubuQuentin)
+- [On my Discord](https://discordapp.com/users/638351262827675661)
 
 Bye Bye 👋
 
