@@ -1,4 +1,4 @@
-[[FR]](#fr) | [[EN]](#en) | [[Stats]](#stats)
+[[FR]](#fr) | [[EN]](#en)
 
 <a name="fr"></a>
 <br />
@@ -47,16 +47,3 @@ Next to that, I practice tennis, skiing ❤, electronics....
 - [On my Discord](https://discordapp.com/users/638351262827675661)
 
 Bye Bye 👋
-
----
-
-<a name="stats"></a>
-<br />
-
-# Stats
-
-[![QuentinBuBu stats](https://github-readme-stats.vercel.app/api?username=QuentinBubu&count_private=true&show_icons=true&theme=dark)](https://github.com/QuentinBubu)
-
-[![QuentinBubu top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinBubu&langs_count=15&theme=dark)](https://github.com/QuentinBubu)
-
-[![QuentinBubu wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=QuentinBubu&theme=dark)](https://github.com/QuentinBubu)
